@@ -9,6 +9,7 @@
             tag="article"
             style="max-width:20rem"
             class="mb-2"
+            footer="Card Footer"
           >
             <b-card-text>Text...Text...Text...</b-card-text>
             <b-button variant="primary">Apply</b-button>
